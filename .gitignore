@@ -18,3 +18,11 @@
 .lock-waf_*
 .waf-*/
 build/
+
+#For xClang
+*.d
+*.s.tmp
+*.xo
+*.xd
+
+
